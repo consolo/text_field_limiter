@@ -1,5 +1,6 @@
 gem 'actionpack', '~> 2.3'
 require 'action_view'
+require 'haml'
 
 module Consolo
   module TextFieldLimiter
