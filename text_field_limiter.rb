@@ -2,6 +2,11 @@ gem 'actionpack', '~> 2.3'
 require 'action_view'
 require 'haml'
 
+##
+# &copy; 2006 Andrew Coleman
+# Released under MIT license.
+# http://www.opensource.org/licenses/mit-license.php
+#
 module Consolo
   module TextFieldLimiter
     # Restrict text fields.
