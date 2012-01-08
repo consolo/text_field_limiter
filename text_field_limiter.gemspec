@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.homepage = 'https://redmine.consoloservices.com'
   s.require_path = '.'
   s.files = [ 'text_field_limiter.rb' ]
-  s.add_dependency 'actionpack', '~> 2.3'
+  s.add_dependency 'actionpack'
   s.add_dependency 'haml'
 end
